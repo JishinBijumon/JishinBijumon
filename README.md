@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jishin Bijumon!
 
-🎓 I'm a BTech engineering student at **Amal Jyothi College of Engineering**, Kanjirappally, Kottayam.
+🎓 I'm a B.Tech engineering student at **Amal Jyothi College of Engineering**, Kanjirappally, Kottayam.
 
 ---
 
